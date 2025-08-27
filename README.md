@@ -51,9 +51,13 @@ The core cryptographic processes are handled in `Hybrid Cipher.js`:
 
 ## 📁 Project Structure
 hybrid-cipher-aes-rsa/
+
 ├── index.html # Main webpage structure
+
 ├── Hybrid Cipher.js # Core cryptographic logic
+
 ├── Hybrid Cipher.css # Styling for the webpage
+
 └── README.md # This file
 
 ## 🔮 Future Enhancements
